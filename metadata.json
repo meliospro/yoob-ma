@@ -1,0 +1,6 @@
+{
+  "name": "Sma Taxi",
+  "description": "Application de moto-taxi (Jakarta) à Kaolack avec réservation rapide, suivi de trajet et estimation de tarif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
